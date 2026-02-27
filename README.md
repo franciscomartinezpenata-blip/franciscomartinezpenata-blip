@@ -1,16 +1,12 @@
-## Hi there 👋
+## Hi there 👋 
+mi name is francisco martinez, welcome this is my repository 
 
-<!--
-**franciscomartinezpenata-blip/franciscomartinezpenata-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working for a company the windows instalacion on towers of control 
+- 🌱 I’m currently learning about programation and diferents languages 
+- 👯 I’m looking to collaborate on riwi I am a coder for they and improve my skills 
+- 🤔 I’m looking for help with python because is requie great care
+- 💬 Ask me about motorcyrcles, is a pasion for me
+- 📫 How to reach me. they can do it for social networks like instagram @tyl3r_martinez or facebook with the same name
+- 😄 Pronouns: mrt
+- ⚡ Fun fact: i love the filosofy and literature
 -->
